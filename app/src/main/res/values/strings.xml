@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Toast-Demo-App</string>
+    <string name="generate_toast">GENERATE TOAST</string>
+    <string name="cross">TODO</string>
+</resources>
